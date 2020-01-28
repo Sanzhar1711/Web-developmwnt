@@ -1,0 +1,196 @@
+			body{
+				background-image: url("grid.png");
+				height:750px;
+			}
+			.fb-header-base{
+				width:100%;
+				height:90px;
+				position:absolute;
+				top:0;
+				left:0;
+				color:white;
+				z-index:7;
+				font-family:verdana;
+				-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+			}
+			.fb-header{
+				width:100%;
+				height:90px;
+				position:absolute;
+				background:#3d5b99;
+				top:0;
+				left:0;
+				color:white;
+				z-index:7;
+				font-family:verdana;
+				
+			}
+			
+			#fb-name{
+				left:180px;
+				height: 40px;
+				width: 180px;
+				bottom: 20px;
+				position: absolute;
+				font-family:verdana;
+				font-size:30px;
+				
+			}
+			#form1{
+				left:700px;
+				height:60px;
+				width:180px;
+				top:15px;
+				font-family:verdana;
+				font-size:12px;
+			}
+			#form2{
+				left:200px;
+				height:60px;
+				width:250px;
+				top:15px;
+				font-family:verdana;
+				font-size:12px;
+			}
+			.button1{
+				left:1050px;
+				top:35px;
+				background:#5b7bc0;
+				color:white;
+				position:relative;
+				z-index:20;
+				height:22px;
+				width:50px;
+				cursor:pointer;
+				border-style:solid;
+				border-color: gray;
+			}
+			.fb-body{
+				position:absolute;
+				left:0px;
+				top:90px;
+				width:100%;
+				height:645px;
+				background-color:rgb(175, 202, 243);
+			}
+			#intro1{
+				left:180px;
+				top:20px;
+				font-family:verdana;
+				font-size:20px;
+				color:#142170;
+				height:75px;
+				width:550px;
+			}
+			#intro2{
+				left:750px;
+				top:20px;
+				font-family:verdana;
+				font-size:30px;
+				color:#000;
+				font-weight:bold;
+				height:75px;
+				width:500px;
+			}
+			#img2{
+				top:100px;
+				left:50px;
+				width:100px;
+				height:195px;
+			}
+	
+			#intro3{
+				left:750px;
+				top:70px;
+				font-family:verdana;
+				font-size:18px;
+				color:#000;
+				height:50px;
+				width:300px;
+			}
+			#form3{
+				top:120px;
+				left:750px;
+				font-family:verdana;
+				font-size:15px;
+				color:#142170;
+				width:430px;
+				height:350px;
+				position:relative;
+				
+			}
+			#namebox{
+				width:165px;
+				height:20px;
+				border-radius:5px 5px 5px 5px;
+				background:white;
+				padding:10px;
+				font-size:18px;
+				margin-top:8px;
+				border-width: 1px;
+				border-style:solid;
+				border-color: gray;
+			}
+			#mailbox{
+				width:357px;
+				height:20px;
+				border-radius:5px 5px 5px 5px;
+				background:white;
+				padding:10px;
+				font-size:18px;
+				margin-top:8px;
+				border-width: 1px;
+				border-style:solid;
+				border-color: gray;
+			}
+			#r-b{
+				font-size:12px;
+				height:15px;
+				width:10px;
+			}
+			.button2{
+				width:250px;
+				height:40px;
+				left:750px;
+				top:625px;
+				background:green;
+				font-family:verdana;
+				font-size:18px;
+				color:white;
+				border-radius:5px 5px 5px 5px;
+				border-width: 1px;
+				border-style:solid;
+				border-color: gray;
+				cursor:pointer;
+				outline:none;
+				
+			}
+			#intro4{
+				font-family:verdana;
+				font-size:12px;
+				color:gray;
+				
+			}
+			#intro5{
+				font-family:verdana;
+				font-size:14px;
+				color:gray;
+				
+			}
+			.fb-body-footer{
+				font-size: 10px
+				width:100%;
+				position:absolute;
+				left:0px;
+				height:80px;
+				background:white;
+				top:820px;
+				
+			}
+			#fb-body-footer-base{
+				width:900px;
+				top:0px;
+				left:200px;
+				color:blue;
+				height:60px;
+			}
