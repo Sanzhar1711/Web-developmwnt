@@ -1,2 +1,1 @@
 # Web-developmwnt
-# ng model
